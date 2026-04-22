@@ -1,0 +1,11 @@
+# Seguridad — nunca versionar
+.env
+session.json
+ 
+# Salida del scraper
+posts.json
+ 
+# Python
+__pycache__/
+*.py[cod]
+.venvNew/
